@@ -7,8 +7,6 @@
 
 #### 👯 I’m looking to collaborate on anything allowing me to learn more about technology and science
 
-#### 🤔 I’m looking for help with networking ideas for introverts
-
 #### 💬 Ask me about my plants and garden 🌺🌿
 
 #### ⚡ Fun fact: I got to work with SARS-CoV-2 antibody 🔬
