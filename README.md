@@ -12,7 +12,7 @@
 #### ⚡ Fun fact: I got to work with SARS-CoV-2 antibody 🔬
 ---------------------------
 
-### My Status 📊
+### My Stats 📊
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=delaluz12&count_private=true&theme=cobalt&show_icons=true)]()
 
