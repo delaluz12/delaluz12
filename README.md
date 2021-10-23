@@ -3,11 +3,11 @@
 
 #### 🔭 I’m currently working on becoming a Full-Stack Developer --> 💻 check out my [Portfolio](https://delaluz12.github.io/Portfolio/)
 
-#### 🌱 I’m currently learning Node.js & MySQL
+#### 🌱 I’m currently learning mongoDB & mongoose
 
 #### 👯 I’m looking to collaborate on anything allowing me to learn more about technology and science
 
-#### 💬 Ask me about my plants and 100 year old farmhouse renovation 🌺🌿
+#### 💬 Ask me about my plants and 100 year old farmhouse renovation 🌺🌿👩‍🌾
 
 #### ⚡ Fun fact: I got to work with SARS-CoV-2 antibody 🔬
 ---------------------------
