@@ -25,7 +25,7 @@
 [![alt text](https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram)](https://www.instagram.com/c12vida_/)
 
 
-[![alt text](https://img.shields.io/badge/email-c12vida%40gmail.com-green?style=plastic)](mailto:c12vida@gmail.com)
+[![alt text](https://img.shields.io/badge/email-marricomen%40gmail.com-green?style=plastic)](mailto:marricomen@gmail.com)
 
 
 <!--
