@@ -1,9 +1,9 @@
 ![screen-gif](./assets/images/canvaGitHubHeader.png)
 ### Hi there 👋 my full name is Maria De La Luz but I go by Maria
 
-#### 🔭 I'm a Full-Stack Developer --> 💻 check out my [Portfolio](https://google.com)
+#### 🔭 I'm a Full-Stack Developer at Sitecore
 
-#### 🌱 I’m currently learning C# and .NET framework
+#### 🌱 I’m currently learning Sitecore OrderCloud
 
 #### 👯 I’m looking to collaborate on anything allowing me to learn more about technology and science
 
