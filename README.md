@@ -3,7 +3,7 @@
 
 #### 🔭 I'm a Full-Stack Developer/Technical Consultant at Sitecore
 
-#### 🌱 I’m currently learning Sitecore OrderCloud & Sitecore Discover
+#### 🌱 I’m currently learning Sitecore Content Hub & SAS Programming Essentials
 
 #### 👯 I’m looking to collaborate on anything allowing me to learn more about technology and science
 
